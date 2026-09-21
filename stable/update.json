@@ -1,9 +1,12 @@
 {
   "product": "RIGFORGE BT PRO Control Center",
   "channel": "stable",
-  "version": "0.2.0",
-  "installerUrl": "https://github.com/Majesty1129/rigforge-bt-pro-releases/releases/download/v0.2.0/RIGFORGE-BT-PRO-Control-Center-Setup-v0.2.0.exe",
-  "sha256": "7416C0D8ADA7CB4B934025FFB4265F5B4EDE68551EFC970B984F1CACE088DAF0",
-  "releaseNotesUrl": "https://github.com/Majesty1129/rigforge-bt-pro-releases/releases/tag/v0.2.0",
-  "mandatory": false
+  "version": "0.2.1",
+  "installerUrl": "https://github.com/Majesty1129/rigforge-bt-pro-releases/releases/download/v0.2.1/RIGFORGE-BT-PRO-Control-Center-Setup-v0.2.1.exe",
+  "sha256": "2ED0F5D81C562575454CD7B3265EF574D6149EFB2539C299F137B7E8F4743076",
+  "releaseNotesUrl": "https://github.com/Majesty1129/rigforge-bt-pro-releases/releases/tag/v0.2.1",
+  "mandatory": false,
+  "firmwareVersion": "0.2.0",
+  "firmwareUrl": "https://github.com/Majesty1129/rigforge-bt-pro-releases/releases/download/v0.2.1/RIGFORGE-BT-PRO-Firmware-v0.2.0.bin",
+  "firmwareSha256": "94C74EE9FBD5B10F48712AC067B5F04314E7670390381783D7722029C1D7C875"
 }
