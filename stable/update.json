@@ -1,0 +1,9 @@
+{
+  "product": "RIGFORGE BT PRO Control Center",
+  "channel": "stable",
+  "version": "0.2.0",
+  "installerUrl": "https://github.com/Majesty1129/rigforge-bt-pro-releases/releases/download/v0.2.0/RIGFORGE-BT-PRO-Control-Center-Setup-v0.2.0.exe",
+  "sha256": "7416C0D8ADA7CB4B934025FFB4265F5B4EDE68551EFC970B984F1CACE088DAF0",
+  "releaseNotesUrl": "https://github.com/Majesty1129/rigforge-bt-pro-releases/releases/tag/v0.2.0",
+  "mandatory": false
+}
